@@ -1,5 +1,6 @@
 Jogo da Vida Adulta:
-O Desafio ao Sucesso
+O Desafio ao Sucesso.
+
 Jogo de Perguntas e Respostas sobre Estatística com Oráculo.
 
 Este é um jogo educacional de perguntas e respostas com diferentes níveis de dificuldade, no qual o jogador deve responder corretamente para avançar. 
